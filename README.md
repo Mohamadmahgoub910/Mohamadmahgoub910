@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamadmahgoub910
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning dotnet
+- 🌱 I’m currently learning full stack python
 - 💞️ I’m looking to collaborate on google or microsoft
 - 📫 How to reach me ... mohamadmahgoub35@gmail.com
 <!---
