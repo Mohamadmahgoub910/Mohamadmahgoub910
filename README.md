@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mohamad Mahgoub
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning full stack python
-- 💞️ I’m looking to collaborate on google or microsoft
-- 📫 How to reach me ... mohamadmahgoub35@gmail.com
+- 🌱 Interested in .Net, Django, Odooa and LowCode any thing related coding.
+- 💞️ I’m looking to collaborate an International Company
+- 📫 How to reach me ==>  mohamadmahgoub35@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
