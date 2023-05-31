@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohamadmahgoub910
+- 👋 Hi, I’m Mohamad Mahgoub
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning full stack python
 - 💞️ I’m looking to collaborate on google or microsoft
