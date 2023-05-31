@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohamad Mahgoub
-- 👀 I’m interested in Programming
+- 👀 Making Playlist For Learning on youtube see it at ==> https://www.youtube.com/playlist?list=PLduMJO22aUCZDP3HKLpZ5v_vqKGSFGx5d
 - 🌱 Interested in .Net, Django, Odooa and LowCode any thing related coding.
 - 💞️ I’m looking to collaborate an International Company
 - 📫 How to reach me ==>  mohamadmahgoub35@gmail.com
